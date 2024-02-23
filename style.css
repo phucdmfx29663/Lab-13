@@ -1,0 +1,31 @@
+body {
+  font-family: sans-serif;
+}
+
+.img1 {
+  height: 100%;
+  background-color: #000;
+  background-size: cover;
+  background-image: url(img/2e29d147a2d15b0f670e3204fdc72f2d.jpg);
+}
+
+.img2 {
+  height: 100%;
+
+  background-color: #000;
+  background-size: cover;
+  background-image: url(img/427846446_1946015019150678_8809289768149584861_n.jpg);
+}
+
+.img3 {
+  height: 100%;
+
+  background-color: #000;
+  background-size: cover;
+  background-image: url(img/images.jpg);
+}
+
+.last {
+  display: grid;
+  grid-template-columns: 75% 25%;
+}
